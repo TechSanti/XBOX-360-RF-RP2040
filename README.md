@@ -3,4 +3,3 @@
 
 
 **RP2040-Pi Pico**
-<img width="2048" height="2048" alt="XBOX-360-RF-RP2040-Zero" src="https://github.com/user-attachments/assets/4dc20379-6c79-4052-b50c-971038ed9cc0" />
